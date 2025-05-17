@@ -1,0 +1,77 @@
+h1{
+  color:bisque;
+  text-align: center;
+  font-family: 'Comic Sans MS';
+  font-weight: bold;
+  font-size: 35pt;
+  text-shadow: 4px 2px white;
+}
+body{
+      background-image: url("putsal.jpg");
+      background-size: cover;
+      background-position:center;
+}
+#formulir {
+    background-color: darkgrey;
+    font-family: 'Comic Sans MS';
+  border: 4px solid whitesmoke;
+  border-radius: 25px;
+  border-style: ridge;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+#hadir {
+    background-color: darkgrey;
+        font-family: 'Comic Sans MS';
+  border: 4px solid whitesmoke;
+  border-style: ridge;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+#metu {
+    background-color: darkgrey;
+        font-family: 'Comic Sans MS';
+  border: 4px solid whitesmoke;
+  border-style: ridge;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+#melbu {
+    background-color: darkgrey;
+        font-family: 'Comic Sans MS';
+  border: 4px solid whitesmoke;
+  border-style: ridge;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+#nama {
+    background-color: darkgrey;
+        font-family: 'Comic Sans MS';
+  border: 4px solid whitesmoke;
+  border-style: ridge;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+h5{
+  color: white;
+}
+.container{
+  max-width: 600px auto;
+  background-color: rgba(0,0,0,0.5);
+  padding : 30px;
+  border-radius: 60px;
+  box-shadow: 0 4px 8px rgba(0,0,0.5);
+}
+.container1{
+  max-width: 900px;
+  background-color: rgba(0,0,0,0.5);
+  margin: auto;
+  padding : 30px;
+  border-radius: 60px;
+  box-shadow: 0 4px 8px rgba(0,0,0.5);
+}
